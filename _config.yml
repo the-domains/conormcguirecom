@@ -1,0 +1,14 @@
+layout_spectrum: 0.521073253126815
+typography_spectrum: 0.16714292275719345
+color:
+  brandStrength: 0.48854783619754016
+  lightness: 0.43389339256100357
+  saturation: 0.05692104413174093
+  rhythmicContrast: 0.3019399964250624
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: conormcguire.com
