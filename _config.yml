@@ -1,15 +1,27 @@
-layout_spectrum: 0.521073253126815
-typography_spectrum: 0.16714292275719345
-color:
-  brandStrength: 0.48854783619754016
-  lightness: 0.43389339256100357
-  saturation: 0.05692104413174093
-  rhythmicContrast: 0.3019399964250624
-  brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-name: conormcguire.com
 title: Fine Artist & Designer
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.05692104413174093
+  brandStrength: 0.490333
+  lightness: 0.4338933925610036
+  brandColors:
+    - '#FFFFFF'
+    - '#ABA490'
+    - '#716855'
+    - '#000175'
+    - '#A0DBF2'
+  rhythmicContrast: 0.3019399964250624
+typography_spectrum: 0.1671429227571934
+layout_spectrum: 0.521073253126815
+name: conormcguire.com
